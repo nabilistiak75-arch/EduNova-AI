@@ -1,0 +1,6 @@
+{
+  "name": "EduNova AI - Student Study Assistant",
+  "description": "Comprehensive AI Study Assistant for school, college, and university students. Features bilingual Bengali & English AI Tutor, step-by-step Math Solver with image recognition, Homework Assistant, Exam Prep & Quizzes, Writing Assistant, and personalized learning progress analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
